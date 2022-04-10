@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    text-align: center;
+    padding-top: 30px;
+}
+.first{
+    padding: 100px; 
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.shadow{
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    margin: 2%;
+}
+.in-first{
+    padding: 20px
+}
+.salam{
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+}
+.all-in{
+    display: flex;
+    flex-wrap: wrap;
+    margin:15%;
+    
+}
+.third-sec{
+    margin: -20px;
+}
